@@ -12,5 +12,9 @@ namespace ConflictsOnGitHub
         {
             Console.WriteLine("Anton says hello");
         }
+        public void HelloWord()
+        {
+            Console.WriteLine("Anton says hello");
+        }
     }
 }
