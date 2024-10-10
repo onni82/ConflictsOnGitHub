@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConflictsOnGitHub
 {
-	public class Onni
+	internal class Onni
 	{
-		static void Onni()
+		static void Goodbye()
         {
-            Console.WriteLine("Onni was here.");
+            Console.WriteLine("Onni says goodbye.");
         }
     }
 }
