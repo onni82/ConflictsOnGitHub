@@ -4,7 +4,11 @@
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, World!");
+			Class1 cla = new Class1();
+
+			cla.BestMethod();
+			
 		}
+
 	}
 }
